@@ -106,7 +106,7 @@
 
 ## 🎉 Let's Connect!
 
-- [LinkedIn Profile →](https://www.linkedin.com/in/akhil-thyadi)
-- [GitHub Profile →](https://github.com/akhil27051999)
+- [LinkedIn Profile](https://www.linkedin.com/in/akhil-thyadi)
+- [GitHub Profile](https://github.com/akhil27051999)
 - ✉️ **Email:** thyadiakhil@gmail.com
 
