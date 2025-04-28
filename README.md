@@ -98,47 +98,10 @@
 
 ---
 
-## 🌟 Contributed Repositories
-
-Here are some of the repositories where I've contributed and worked on real-world DevOps challenges, microservices, and automation:
-
-### 🔧 **DevOps Microservices Setup**
-- **Repository:** [DevOps Microservices](https://github.com/akhil27051999/devops-microservices)
-- **Technologies Used:** Docker, Kubernetes, AWS EKS, GitHub Actions, Terraform
-- **Description:** A fully automated CI/CD pipeline setup for deploying microservices using Docker, Kubernetes, and AWS EKS. Leveraged Terraform for infrastructure provisioning and GitHub Actions for automating build and deployment pipelines.
-
-### ⚙️ **Kubernetes Cluster Monitoring with Prometheus & Grafana**
-- **Repository:** [Kubernetes Monitoring](https://github.com/akhil27051999/kubernetes-monitoring)
-- **Technologies Used:** Kubernetes, Prometheus, Grafana
-- **Description:** Implemented a monitoring solution for Kubernetes clusters with Prometheus and Grafana. Set up alerts, visual dashboards, and automated scraping for cluster performance metrics.
-
-### ☁️ **AWS Infrastructure Automation with Terraform**
-- **Repository:** [AWS Terraform Setup](https://github.com/akhil27051999/aws-terraform-setup)
-- **Technologies Used:** AWS, Terraform, VPC, EC2, IAM
-- **Description:** Automated the setup of AWS infrastructure using Terraform. Provisioned VPC, EC2 instances, IAM roles, and security groups, focusing on cost-effective and scalable cloud solutions.
-
-### 🚀 **CI/CD Pipelines for Python Microservices**
-- **Repository:** [CI/CD Python Pipelines](https://github.com/akhil27051999/cicd-python-pipelines)
-- **Technologies Used:** Python, Jenkins, GitHub Actions, Docker
-- **Description:** Designed a CI/CD pipeline for Python-based microservices with automated testing, deployment, and versioning. Integrated Docker for containerization and GitHub Actions for streamlined CI/CD workflows.
-
-### 🔒 **Automated Security Auditing with Ansible**
-- **Repository:** [Ansible Security Audit](https://github.com/akhil27051999/ansible-security-audit)
-- **Technologies Used:** Ansible, Linux, Security Audits
-- **Description:** Built an Ansible playbook for performing automated security audits on Linux servers, detecting vulnerabilities, and applying best practices to harden systems.
-
-### 🌐 **Multi-Environment GitOps Deployment with ArgoCD**
-- **Repository:** [GitOps ArgoCD Setup](https://github.com/akhil27051999/gitops-argocd)
-- **Technologies Used:** ArgoCD, Kubernetes, Helm
-- **Description:** Set up GitOps deployments using ArgoCD, allowing for multi-environment CI/CD management and continuous delivery of applications across Dev, Staging, and Prod environments.
-
-> Feel free to check out more of my projects and contributions on [GitHub](https://github.com/akhil27051999).
-
----
-
 ## 🎉 Let's Connect!
 
 - [LinkedIn Profile](https://www.linkedin.com/in/akhil-thyadi)
 - [GitHub Profile](https://github.com/akhil27051999)
 - ✉️ **Email:** thyadiakhil@gmail.com
 
+> Feel free to check out more of my projects and contributions on [GitHub](https://github.com/akhil27051999).
