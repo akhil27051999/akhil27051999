@@ -1,19 +1,13 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<h1 align="center">Hey Everyone 👋, I'm Akhil Thyadi</h1>
 
-<div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
-</div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+  <a href="https://github.com/akhil27051999">
+    <img src="https://img.shields.io/github/followers/akhil27051999?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
+  <a href="https://linkedin.com/in/akhil-thyadi-2a181818a">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
