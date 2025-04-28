@@ -11,6 +11,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+Certified+Cloud+Practitioner;Infrastructure+as+Code+Expert;Kubernetes+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG">
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 ✈️ DevOps Engineer with over **3+ years of experience** in designing, automating, and optimizing mission-critical deployments in AWS and hybrid cloud environments.
@@ -20,6 +26,16 @@
 📅 Constantly learning and building real-world cloud-native DevOps solutions.
 
 💬 Let's connect: **thyadiakhil@gmail.com**
+
+---
+
+## 📚 Certifications
+
+✨ **AWS Certified Cloud Practitioner**  
+[View Certification →](https://www.credly.com/badges/2953c326-c1cd-43b2-8925-1ba9d2d2ad59/public_url)
+
+✨ **AWS Cloud Quest: Cloud Practitioner**  
+[View Certification →](https://www.credly.com/badges/97f88428-ee6a-499a-b29c-1c2719c90a64/linked_in_profile)
 
 ---
 
@@ -45,13 +61,32 @@
 
 ---
 
-## 📚 Certifications
+## 📅 DevOps Project Timeline (Milestones)
 
-✨ **AWS Certified Cloud Practitioner**  
-[View Certification →](https://www.credly.com/badges/2953c326-c1cd-43b2-8925-1ba9d2d2ad59/public_url)
+| Timeline | Project | Description |
+| :---: | :--- | :--- |
+| 2022 | AWS Infra with Terraform | Automated AWS resource provisioning |
+| 2022 | Dockerized Microservices | Built and deployed containerized apps |
+| 2023 | Kubernetes Cluster Setup | Deployed scalable apps using Helm and ArgoCD |
+| 2023 | Monitoring Stack | Implemented Prometheus + Grafana monitoring |
+| 2024 | GitOps Multi-Environment | Managed Dev, Stage, Prod deployments using ArgoCD |
 
-✨ **AWS Cloud Quest: Cloud Practitioner**  
-[View Certification →](https://www.credly.com/badges/97f88428-ee6a-499a-b29c-1c2719c90a64/linked_in_profile)
+---
+
+## 🚀 DevOps Skills Matrix
+
+| Skills | Beginner | Intermediate | Advanced |
+|:---|:---:|:---:|:---:|
+| Linux & Shell Scripting |  | ✔️ |  |
+| Git, GitHub, GitLab |  | ✔️ |  |
+| Docker & Docker Compose |  | ✔️ |  |
+| Kubernetes & Helm |  |  | ✔️ |
+| Jenkins, GitHub Actions |  | ✔️ |  |
+| Terraform, IaC |  |  | ✔️ |
+| AWS (EC2, VPC, EKS, S3) |  | ✔️ |  |
+| Prometheus, Grafana Monitoring |  | ✔️ |  |
+| Ansible Configuration Management | ✔️ |  |  |
+| ArgoCD (GitOps) |  |  | ✔️ |
 
 ---
 
@@ -100,8 +135,10 @@
 
 ---
 
-## 🎨 AI Generated Professional Banner
+## 🎨 Custom Dynamic SVG Banner
 
-![Professional DevOps Banner](https://images.unsplash.com/photo-1558898479-33adcd9f31e5?crop=entropy&cs=tinysrgb&fit=crop&h=300&w=1200)
+<p align="center">
+  <img src="https://github.com/akhil27051999/akhil27051999/blob/main/assets/banner.svg" alt="Custom DevOps Banner">
+</p>
 
 > *"Let's build, automate, and innovate the future of cloud-native systems!"*
