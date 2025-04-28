@@ -11,12 +11,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+Certified+Cloud+Practitioner;Infrastructure+as+Code+Expert;Kubernetes+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG">
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 ✈️ DevOps Engineer with over **3+ years of experience** in designing, automating, and optimizing mission-critical deployments in AWS and hybrid cloud environments.
@@ -26,16 +20,6 @@
 📅 Constantly learning and building real-world cloud-native DevOps solutions.
 
 💬 Let's connect: **thyadiakhil@gmail.com**
-
----
-
-## 📚 Certifications
-
-✨ **AWS Certified Cloud Practitioner**  
-[View Certification →](https://www.credly.com/badges/2953c326-c1cd-43b2-8925-1ba9d2d2ad59/public_url)
-
-✨ **AWS Cloud Quest: Cloud Practitioner**  
-[View Certification →](https://www.credly.com/badges/97f88428-ee6a-499a-b29c-1c2719c90a64/linked_in_profile)
 
 ---
 
@@ -61,15 +45,13 @@
 
 ---
 
-## 📅 DevOps Project Timeline (Milestones)
+## 📚 Certifications
 
-| Timeline | Project | Description |
-| :---: | :--- | :--- |
-| 2022 | AWS Infra with Terraform | Automated AWS resource provisioning |
-| 2022 | Dockerized Microservices | Built and deployed containerized apps |
-| 2023 | Kubernetes Cluster Setup | Deployed scalable apps using Helm and ArgoCD |
-| 2023 | Monitoring Stack | Implemented Prometheus + Grafana monitoring |
-| 2024 | GitOps Multi-Environment | Managed Dev, Stage, Prod deployments using ArgoCD |
+✨ **AWS Certified Cloud Practitioner**  
+[View Certification →](https://www.credly.com/badges/2953c326-c1cd-43b2-8925-1ba9d2d2ad59/public_url)
+
+✨ **AWS Cloud Quest: Cloud Practitioner**  
+[View Certification →](https://www.credly.com/badges/97f88428-ee6a-499a-b29c-1c2719c90a64/linked_in_profile)
 
 ---
 
@@ -82,6 +64,18 @@
 - **Multi-Environment GitOps Deployments** - Dev, Stage, and Prod deployments using ArgoCD ApplicationSets.
 
 > *Explore more real-world DevOps projects in my repositories!*
+
+---
+
+## 🗓️ DevOps Project Timeline
+
+| Project Title                    | Milestones                                                                                     |
+|-----------------------------------|------------------------------------------------------------------------------------------------|
+| **AWS Infrastructure Setup**      | Fully automated Terraform setup for VPC, EC2, EKS, and IAM roles.                             |
+| **CI/CD Automation with Jenkins** | Pipeline setup for Dockerized microservices with automated build, test, and deploy processes.  |
+| **Kubernetes Management**         | Helm chart deployment of applications, with automated scaling and updates via ArgoCD.         |
+| **Monitoring and Alerting**       | Prometheus and Grafana for full-stack monitoring with alerts and dashboard visualization.      |
+| **GitOps Workflow**               | GitOps-based application deployment with ArgoCD in multi-environment setups.                  |
 
 ---
 
@@ -118,4 +112,32 @@
 
 ---
 
+## 🎨 AI Generated Professional Banner
+
+![Professional DevOps Banner](https://images.unsplash.com/photo-1558898479-33adcd9f31e5?crop=entropy&cs=tinysrgb&fit=crop&h=300&w=1200)
+
 > *"Let's build, automate, and innovate the future of cloud-native systems!"*
+
+---
+
+## 🔧 DevOps Skills Matrix
+
+| Skills             | Proficiency    |
+|--------------------|----------------|
+| Ubuntu             | Advanced       |
+| Python             | Intermediate   |
+| Git                | Advanced       |
+| Docker             | Advanced       |
+| Kubernetes         | Intermediate   |
+| Jenkins            | Intermediate   |
+| Terraform          | Intermediate   |
+| Ansible            | Intermediate   |
+| AWS                | Advanced       |
+| Prometheus         | Intermediate   |
+| Grafana            | Intermediate   |
+
+---
+
+## 💡 Dynamic SVG Header Banner
+
+[Dynamic Header Image with Latest DevOps Trends](https://your-dynamic-banner-link-here)
