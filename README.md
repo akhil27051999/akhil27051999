@@ -1,78 +1,105 @@
-<h1 align="center">Hi 👋, I'm Akhil Thyadi</h1>
-
-<h3 align="center">DevOps Engineer | 3+ years of experience | AWS | Kubernetes | Terraform | Jenkins</h3>
+<h1 align="center">Hey Everyone 👋, I'm Akhil Thyadi</h1>
 
 <p align="center">
-  <a href="https://github.com/akhil27051999" target="_blank">
-    <img src="https://img.shields.io/github/followers/akhil27051999?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://linkedin.com/in/akhil-thyadi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Akhil%20Thyadi-blue?logo=linkedin&style=flat-square" alt="LinkedIn Profile" />
-  </a>
+  <i>DevOps Engineer | 3+ Years Experience | AWS Certified | Cloud Enthusiast</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/akhil27051999"><img src="https://img.shields.io/github/followers/akhil27051999?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://www.linkedin.com/in/akhil-thyadi"><img src="https://img.shields.io/badge/LinkedIn-Akhil%20Thyadi-blue?logo=linkedin&style=flat-square" alt="LinkedIn Profile"></a>
 </p>
 
 ---
 
-- 🌟 DevOps Engineer with 3+ years of hands-on experience in automating cloud infrastructures and implementing CI/CD pipelines.
-- 🛠 Skilled in Ubuntu, Python, Networking, SQL, Git, GitHub, GitLab, Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, Grafana, and AWS.
-- 🚀 Passionate about Cloud Native technologies and Infrastructure as Code (IaC) practices.
-- 📫 Reach me at: **akhilth2705@gmail.com**
-- 📄 My Resume and Certifications are available below.
+## 👨‍💻 About Me
+
+✈️ DevOps Engineer with over **3+ years of experience** in designing, automating, and optimizing mission-critical deployments in AWS and hybrid cloud environments.
+
+🌐 Skilled in infrastructure as code, CI/CD pipelines, container orchestration, cloud operations, and system monitoring.
+
+📅 Constantly learning and building real-world cloud-native DevOps solutions.
+
+💬 Let's connect: **thyadiakhil@gmail.com**
 
 ---
 
-## 🛠️ Skills and Tools
+## 📊 Tools and Skills
+
 <p align="left">
-  <img src="https://img.shields.io/badge/OS-Ubuntu-2C001E?logo=ubuntu&logoColor=orange&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VersionControl-Git-orange?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SCM-GitHub-lightgrey?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SCM-GitLab-lightgrey?logo=gitlab&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Container-Docker-blue?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI/CD-Jenkins-red?logo=jenkins&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IaC-Terraform-purple?logo=terraform&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Configuration-Ansible-red?logo=ansible&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus-orange?logo=prometheus&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Monitoring-Grafana-orange?logo=grafana&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="40" height="40"/>
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 📜 Certifications
-- 🏆 [AWS Certified Cloud Practitioner (View Badge)](https://www.credly.com/badges/2953c326-c1cd-43b2-8925-1ba9d2d2ad59/public_url)
+## 📚 Certifications
+
+✨ **AWS Certified Cloud Practitioner**  
+[View Certification →](https://www.credly.com/badges/2953c326-c1cd-43b2-8925-1ba9d2d2ad59/public_url)
+
+✨ **AWS Cloud Quest: Cloud Practitioner**  
+[View Certification →](https://www.credly.com/badges/97f88428-ee6a-499a-b29c-1c2719c90a64/linked_in_profile)
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Featured Projects
+
+- **Terraform AWS Infrastructure Deployment** - VPC, EC2, EKS setup
+- **CI/CD Pipelines with Jenkins & GitHub Actions** - Build, Test, Deploy Dockerized Applications
+- **Kubernetes Microservices Deployment** - Helm Charts, Load Balancer Configuration
+- **Cloud Monitoring Setup** - Prometheus and Grafana Dashboards on EKS
+
+> *More Projects Coming Soon...*
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhil27051999&show_icons=true&theme=tokyonight&hide_border=true" alt="Akhil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil27051999&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
 
 ---
 
 ## 🔥 GitHub Contribution Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil27051999&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=akhil27051999&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
 
-## 🚀 Top Contributed Repositories
+## 🌟 Top Contributed Repositories
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=akhil27051999&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=akhil27051999&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions">
 </p>
 
 ---
 
-## 🤝 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/akhil-thyadi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Akhil%20Thyadi-blue?logo=linkedin&style=for-the-badge" /></a>
-</p>
+## 🎉 Let's Connect!
+
+- [LinkedIn Profile →](https://www.linkedin.com/in/akhil-thyadi)
+- [GitHub Profile →](https://github.com/akhil27051999)
+- ✉️ **Email:** thyadiakhil@gmail.com
 
 ---
 
-⭐️ *Thank you for visiting my GitHub profile! Let's connect and grow together!*
+## 🎨 AI Generated Professional Banner
 
+![Professional DevOps Banner](https://images.unsplash.com/photo-1558898479-33adcd9f31e5?crop=entropy&cs=tinysrgb&fit=crop&h=300&w=1200)
+
+> *"Let's build, automate, and innovate the future of cloud-native systems!"*
