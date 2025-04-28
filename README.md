@@ -4,6 +4,8 @@
   <i>DevOps Engineer | 3+ Years Experience | AWS Certified | Cloud Enthusiast</i>
 </p>
 
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <p align="center">
   <a href="https://github.com/akhil27051999"><img src="https://img.shields.io/github/followers/akhil27051999?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://www.linkedin.com/in/akhil-thyadi"><img src="https://img.shields.io/badge/LinkedIn-Akhil%20Thyadi-blue?logo=linkedin&style=flat-square" alt="LinkedIn Profile"></a>
@@ -44,9 +46,6 @@
 </p>
 
 ---
-
-<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 
 ## 📚 Certifications
 
