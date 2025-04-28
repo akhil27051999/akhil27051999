@@ -4,7 +4,6 @@
   <i>DevOps Engineer | 3+ Years Experience | AWS Certified | Cloud Enthusiast</i>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/akhil27051999"><img src="https://img.shields.io/github/followers/akhil27051999?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://www.linkedin.com/in/akhil-thyadi"><img src="https://img.shields.io/badge/LinkedIn-Akhil%20Thyadi-blue?logo=linkedin&style=flat-square" alt="LinkedIn Profile"></a>
@@ -60,25 +59,45 @@
 
 ## 💡 Project Highlights
 
-- **AWS Infrastructure Setup using Terraform** - Fully automated VPC, EC2, and EKS cluster setup.
-- **CI/CD Pipelines with Jenkins and GitHub Actions** - Dockerized microservices automated build, test, and deploy.
-- **Kubernetes Deployment Management** - Applications deployed with Helm charts and managed via ArgoCD.
-- **Monitoring with Prometheus and Grafana** - Full observability and alerting system on Kubernetes clusters.
-- **Multi-Environment GitOps Deployments** - Dev, Stage, and Prod deployments using ArgoCD ApplicationSets.
+- **Containerization of Node.js and Python Microservices with CI/CD via GitHub Actions**  
+  Real-world microservices deployment using Docker, Docker Compose, and Docker Swarm — from image creation to networking and health checks.
+  
+- **Containerization of Flask-based Microservices using Docker-in-Docker and CI/CD**  
+  Simple microservices architecture (User, Product, Order services) containerized and managed with GitHub Actions workflows.
 
-> *Explore more real-world DevOps projects in my repositories!*
+- **Automation Testing of Git Commands using GitHub Actions**  
+  Automated testing of various Git operations to ensure smooth version control processes.
+
+- **Automation Testing of Linux Commands using GitHub Actions**  
+  Validating and automating Linux command operations using GitHub Actions pipelines.
+
+- **AWS Infrastructure Setup using Terraform**  
+  Full infrastructure setup: VPC, EC2 instances, IAM, and EKS cluster using Infrastructure as Code (IaC).
+
+- **CI/CD Pipelines with Jenkins and GitHub Actions**  
+  Build, test, and deploy Dockerized microservices automatically to production.
+
+- **Kubernetes Deployment Management**  
+  Helm charts, ArgoCD GitOps workflows, and scaling strategies for production workloads.
+
+- **Monitoring with Prometheus and Grafana**  
+  Full observability stack on Kubernetes with alerting systems and custom dashboards.
+
+- **Multi-Environment GitOps Deployments**  
+  Dev, Staging, and Production deployments handled efficiently using ArgoCD ApplicationSets.
 
 ---
 
-## 🗓️ DevOps Project Timeline
+## 🔥 Contributed Projects
 
-| Project Title                    | Milestones                                                                                     |
-|-----------------------------------|------------------------------------------------------------------------------------------------|
-| **AWS Infrastructure Setup**      | Fully automated Terraform setup for VPC, EC2, EKS, and IAM roles.                             |
-| **CI/CD Automation with Jenkins** | Pipeline setup for Dockerized microservices with automated build, test, and deploy processes.  |
-| **Kubernetes Management**         | Helm chart deployment of applications, with automated scaling and updates via ArgoCD.         |
-| **Monitoring and Alerting**       | Prometheus and Grafana for full-stack monitoring with alerts and dashboard visualization.      |
-| **GitOps Workflow**               | GitOps-based application deployment with ArgoCD in multi-environment setups.                  |
+- **ultimate-devops-project-aws**  
+  Forked and contributed to an end-to-end DevOps project implementing a real-world cloud-native microservices application on AWS.
+
+- **ultimate-devops-project-demo (OpenTelemetry Astronomy Shop)**  
+  Forked and contributed to a distributed microservices system demonstrating OpenTelemetry observability practices.
+
+> *Explore more real-world DevOps projects in my repositories!*
+
 
 ---
 
