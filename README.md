@@ -55,21 +55,22 @@
 
 ---
 
-## 📚 Featured Projects
+## 💡 Project Highlights
 
-- **Terraform AWS Infrastructure Deployment** - VPC, EC2, EKS setup
-- **CI/CD Pipelines with Jenkins & GitHub Actions** - Build, Test, Deploy Dockerized Applications
-- **Kubernetes Microservices Deployment** - Helm Charts, Load Balancer Configuration
-- **Cloud Monitoring Setup** - Prometheus and Grafana Dashboards on EKS
+- **AWS Infrastructure Setup using Terraform** - Fully automated VPC, EC2, and EKS cluster setup.
+- **CI/CD Pipelines with Jenkins and GitHub Actions** - Dockerized microservices automated build, test, and deploy.
+- **Kubernetes Deployment Management** - Applications deployed with Helm charts and managed via ArgoCD.
+- **Monitoring with Prometheus and Grafana** - Full observability and alerting system on Kubernetes clusters.
+- **Multi-Environment GitOps Deployments** - Dev, Stage, and Prod deployments using ArgoCD ApplicationSets.
 
-> *More Projects Coming Soon...*
+> *Explore more real-world DevOps projects in my repositories!*
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhil27051999&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil27051999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
 </p>
 
 ---
@@ -77,7 +78,7 @@
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akhil27051999&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=akhil27051999&theme=tokyonight&hide_border=true&fire=DD2727&currStreakLabel=F7B801&currStreakNum=F7B801" alt="GitHub Streak">
 </p>
 
 ---
@@ -85,7 +86,8 @@
 ## 🌟 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=akhil27051999&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhil27051999&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhil27051999&theme=tokyonight">
 </p>
 
 ---
