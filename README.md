@@ -73,23 +73,6 @@
 
 ---
 
-## 🚀 DevOps Skills Matrix
-
-| Skills | Beginner | Intermediate | Advanced |
-|:---|:---:|:---:|:---:|
-| Linux & Shell Scripting |  | ✔️ |  |
-| Git, GitHub, GitLab |  | ✔️ |  |
-| Docker & Docker Compose |  | ✔️ |  |
-| Kubernetes & Helm |  |  | ✔️ |
-| Jenkins, GitHub Actions |  | ✔️ |  |
-| Terraform, IaC |  |  | ✔️ |
-| AWS (EC2, VPC, EKS, S3) |  | ✔️ |  |
-| Prometheus, Grafana Monitoring |  | ✔️ |  |
-| Ansible Configuration Management | ✔️ |  |  |
-| ArgoCD (GitOps) |  |  | ✔️ |
-
----
-
 ## 💡 Project Highlights
 
 - **AWS Infrastructure Setup using Terraform** - Fully automated VPC, EC2, and EKS cluster setup.
@@ -134,11 +117,5 @@
 - ✉️ **Email:** thyadiakhil@gmail.com
 
 ---
-
-## 🎨 Custom Dynamic SVG Banner
-
-<p align="center">
-  <img src="https://github.com/akhil27051999/akhil27051999/blob/main/assets/banner.svg" alt="Custom DevOps Banner">
-</p>
 
 > *"Let's build, automate, and innovate the future of cloud-native systems!"*
