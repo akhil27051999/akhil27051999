@@ -69,17 +69,6 @@
 
 ---
 
-## 🗓️ DevOps Project Timeline
-
-| Project Title                    | Milestones                                                                                     |
-|-----------------------------------|------------------------------------------------------------------------------------------------|
-| **AWS Infrastructure Setup**      | Fully automated Terraform setup for VPC, EC2, EKS, and IAM roles.                             |
-| **CI/CD Automation with Jenkins** | Pipeline setup for Dockerized microservices with automated build, test, and deploy processes.  |
-| **Kubernetes Management**         | Helm chart deployment of applications, with automated scaling and updates via ArgoCD.         |
-| **Monitoring and Alerting**       | Prometheus and Grafana for full-stack monitoring with alerts and dashboard visualization.      |
-| **GitOps Workflow**               | GitOps-based application deployment with ArgoCD in multi-environment setups.                  |
-
----
 
 ## 📈 GitHub Stats
 
