@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Akhil Thyadi</h1>
 
 <p align="center">
-  <i>DevOps Engineer | 3+ Years Experience | AWS Certified | Cloud Enthusiast</i>
+  <i>AWS Cloud Engineer | 3+ Years Experience | AWS Certified | Cloud Enthusiast</i>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-✈️ DevOps Engineer with over **3+ years of experience** in designing, automating, and optimizing mission-critical deployments in AWS and hybrid cloud environments.
+✈️ AWS Cloud Engineer with over **3+ years of experience** in designing, automating, and optimizing mission-critical deployments in AWS and hybrid cloud environments.
 
 🌐 Skilled in infrastructure as code, CI/CD pipelines, container orchestration, cloud operations, and system monitoring.
 
