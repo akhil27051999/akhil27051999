@@ -17,7 +17,7 @@
 
 ✈️ AWS Cloud Engineer with over **3+ years of experience** in designing, automating, and optimizing mission-critical deployments in AWS and hybrid cloud environments.
 
-🌐 Skilled in infrastructure as code, CI/CD pipelines, container orchestration, cloud operations, and system monitoring.
+🌐 Skilled in Automation, Infrastructure as Code, CI/CD pipelines, Container Orchestration, Cloud Operations, System and Application Monitoring.
 
 📅 Constantly learning and building real-world cloud-native DevOps solutions.
 
