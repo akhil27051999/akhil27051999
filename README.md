@@ -57,18 +57,6 @@
 
 ---
 
-## 💡 Project Highlights
-
-| Project Title                            | Description                                                                         | GitHub Link |
-|-------------------------------------------|-------------------------------------------------------------------------------------|-------------|
-| Automation Testing of Linux Commands     | Linux command execution testing via GitHub Actions automation.                     | [View Repo](https://github.com/akhil27051999/Automation-Testing-of-Linux-Commands-using-Github-Actions) |
-| Containerization of Node.js and Python Microservices | Docker Compose, Docker Swarm, CI/CD via GitHub Actions. | [View Repo](https://github.com/akhil27051999/Containerization-of-Node.js-and-Python-Microservices-with-CI-CD-via-GitHub-Actions) |
-| Containerization of Flask Microservices  | Docker Compose setup with GitHub Actions based CI/CD for Flask services.            | [View Repo](https://github.com/akhil27051999/Containerization-of-Flask-based-Microservice-using-Docker-in-Docker-and-CI-CD-via-GitHub-Action) |
-| Ultimate DevOps Project - AWS            | End-to-End DevOps project implementation on AWS.                                    | [View Repo](https://github.com/akhil27051999/ultimate-devops-project-aws) |
-| OpenTelemetry Astronomy Shop             | Distributed microservices system with OpenTelemetry.                               | [View Repo](https://github.com/akhil27051999/ultimate-devops-project-demo) |
-
----
-
 
 ## 📈 GitHub Stats
 
