@@ -57,23 +57,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhil27051999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akhil27051999&theme=tokyonight&hide_border=true&fire=DD2727&currStreakLabel=F7B801&currStreakNum=F7B801" alt="GitHub Streak">
-</p>
-
----
-
 ## 🎉 Let's Connect!
 
 - [LinkedIn Profile](https://www.linkedin.com/in/akhil-thyadi)
