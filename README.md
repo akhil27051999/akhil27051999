@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 Tools and Skills
+## 🛠️ Tools and Skills
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
