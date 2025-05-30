@@ -49,10 +49,10 @@
 
 ## 📚 Certifications
 
-✨ **AWS Certified Cloud Practitioner**  
+**AWS Certified Cloud Practitioner**  
 [View Certification →](https://www.credly.com/badges/2953c326-c1cd-43b2-8925-1ba9d2d2ad59/public_url)
 
-✨ **AWS Cloud Quest: Cloud Practitioner**  
+**AWS Cloud Quest: Cloud Practitioner**  
 [View Certification →](https://www.credly.com/badges/97f88428-ee6a-499a-b29c-1c2719c90a64/linked_in_profile)
 
 ---
