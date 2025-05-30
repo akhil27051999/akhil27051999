@@ -21,7 +21,9 @@
 
 📅 Constantly learning and building real-world cloud-native DevOps solutions.
 
-💬 Let's connect: **thyadiakhil@gmail.com**
+💬 Let's connect
+- **Mail**: *thyadiakhil@gmail.com*
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/akhil-thyadi)
 
 ---
 
@@ -59,5 +61,5 @@
 
 ## 🎉 Let's Connect!
 
-- [LinkedIn Profile](https://www.linkedin.com/in/akhil-thyadi)
+
 - thyadiakhil@gmail.com
