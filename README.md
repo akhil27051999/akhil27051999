@@ -22,8 +22,8 @@
 📅 Constantly learning and building real-world cloud-native DevOps solutions.
 
 💬 Let's connect
-- **Mail**: *thyadiakhil@gmail.com*
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/akhil-thyadi)
+- **Mail: thyadiakhil@gmail.com**
+- **LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akhil-thyadi)**
 
 ---
 
@@ -57,9 +57,3 @@
 **AWS Cloud Quest: Cloud Practitioner**  
 [View Certification →](https://www.credly.com/badges/97f88428-ee6a-499a-b29c-1c2719c90a64/linked_in_profile)
 
----
-
-## 🎉 Let's Connect!
-
-
-- thyadiakhil@gmail.com
